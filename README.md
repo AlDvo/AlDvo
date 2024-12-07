@@ -12,13 +12,13 @@
 ## My projects
 **QA GURU** (Test Automation course on JS, [read more](https://qa.guru/))  
 
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anaSense&repo=bellintegrator_uitests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/AlDvo/js_autotests_UI_API)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=AlDVo&repo=js_autotests_UI_API&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/AlDvo/js_autotests_UI_API)
 
 ## Stats
 ![Aleksey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlDvo&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
 
 ## Contact me 
-<img src="icons/telegram.png" title="Telegram" alt="Telegram" width="15" height="15"/> [@egorova_an](https://t.me/aldvo)
+<img src="icons/telegram.png" title="Telegram" alt="Telegram" width="15" height="15"/> [@aldvo](https://t.me/aldvo)
 <!--
 **anaSense/anaSense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
