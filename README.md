@@ -14,6 +14,9 @@
 
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=AlDVo&repo=js_autotests_UI_API&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/AlDvo/js_autotests_UI_API)
 
+**JavaRush** (Developer on Java, [read more](https://javarush.com/))  
+[![JavaRush](https://github-readme-stats.vercel.app/api/pin/?username=AlDVo&repo=second_work&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/AlDvo/second_work)
+
 ## Stats
 ![Aleksey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlDvo&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
 
